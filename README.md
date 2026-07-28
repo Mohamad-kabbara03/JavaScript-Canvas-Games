@@ -1,6 +1,6 @@
-# 🎮 JavaScript Canvas Games Collection
+# 🎮 JavaScript Canvas Games 
 
-A collection of browser-based games developed using **JavaScript**, **HTML5 Canvas**, **HTML**, and **CSS**. Each game demonstrates different game development concepts, including collision detection, animation, game loops, user input handling, and object-oriented programming.
+Browser-based games developed using **JavaScript**, **HTML5 Canvas**, **HTML**, and **CSS**. Each game demonstrates different game development concepts, including collision detection, animation, game loops, user input handling, and object-oriented programming.
 
 ## 🕹️ Games Included
 
